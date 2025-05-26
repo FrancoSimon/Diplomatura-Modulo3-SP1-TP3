@@ -78,5 +78,31 @@
     "enemigo": [
       "Dormammu"
     ]
+  },
+  {
+    "id": 8,
+    "nombreSuperheroe": "Daredevil",
+    "nombreReal": "Matthew Michael Murdock",
+    "nombreSociedad": "Abogado/Vigilante",
+    "edad": 32,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Ceguera (aunque también es su fuerza)",
+    "poder": [
+      "Sentidos mejorados",
+      "Agilidad sobrehumana",
+      "Resistencia al dolor",
+      "Habilidad en combate cuerpo a cuerpo"
+    ],
+    "habilidadEspecial": "Radar sense (percepción similar al sonar)",
+    "aliado": [
+      "Elektra",
+      "Foggy Nelson",
+      "Jessica Jones"
+    ],
+    "enemigo": [
+      "Kingpin",
+      "Bullseye",
+      "The Hand"
+    ]
   }
 ]
