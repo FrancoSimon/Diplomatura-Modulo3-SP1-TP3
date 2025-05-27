@@ -1,0 +1,25 @@
+{
+  "name": "diplomatura-modulo3-sp1-tp3",
+  "version": "1.0.0",
+  "description": "Trabajo practico numero 3 del sprint 01",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancoSimon/Diplomatura-Modulo3-SP1-TP3.git"
+  },
+  "keywords": [
+    "diplomatura",
+    "tp",
+    "modulo",
+    "sprint"
+  ],
+  "author": "Franco Simon Olmedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancoSimon/Diplomatura-Modulo3-SP1-TP3/issues"
+  },
+  "homepage": "https://github.com/FrancoSimon/Diplomatura-Modulo3-SP1-TP3#readme"
+}
